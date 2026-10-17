@@ -28,7 +28,7 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,tailwind,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,tailwind,postgres" />
 </p>
 
 ## 📊 GitHub Stats
